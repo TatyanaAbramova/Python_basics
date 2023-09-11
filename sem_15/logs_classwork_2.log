@@ -1,0 +1,2 @@
+INFO:__main__:{'args': (10, 42, 'Hello'), 'name': 'Dmitry', 'x': 3, 'y': True, 'result': 100}
+INFO - 2023-07-08 11:43:14,458 - func: any_name - {'args': (10, 42, 'Hello'), 'name': 'Dmitry', 'x': 3, 'y': True} - "result": 100

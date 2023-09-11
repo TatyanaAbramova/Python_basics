@@ -1,0 +1,82 @@
+{
+  "C:\\Users\\dima4\\python_basics\\sem_8": {
+    "__pycache__": {
+      "size": 13029,
+      "file_or_folder": "folder"
+    },
+    "classwork_1.py": {
+      "size": 1980,
+      "file_or_folder": "file"
+    },
+    "classwork_2.py": {
+      "size": 2120,
+      "file_or_folder": "file"
+    },
+    "classwork_3.py": {
+      "size": 925,
+      "file_or_folder": "file"
+    },
+    "classwork_4.py": {
+      "size": 1518,
+      "file_or_folder": "file"
+    },
+    "data.csv": {
+      "size": 60,
+      "file_or_folder": "file"
+    },
+    "data.json": {
+      "size": 108,
+      "file_or_folder": "file"
+    },
+    "folder_info.csv": {
+      "size": 0,
+      "file_or_folder": "file"
+    },
+    "folder_info.json": {
+      "size": 0,
+      "file_or_folder": "file"
+    },
+    "folder_info.pickle": {
+      "size": 0,
+      "file_or_folder": "file"
+    },
+    "homework.py": {
+      "size": 2826,
+      "file_or_folder": "file"
+    },
+    "json_in.json": {
+      "size": 359,
+      "file_or_folder": "file"
+    },
+    "main.py": {
+      "size": 519,
+      "file_or_folder": "file"
+    },
+    "README.md": {
+      "size": 3385,
+      "file_or_folder": "file"
+    },
+    "res_classwork_3.json": {
+      "size": 543,
+      "file_or_folder": "file"
+    }
+  },
+  "C:\\Users\\dima4\\python_basics\\sem_8\\__pycache__": {
+    "classwork_2.cpython-311.pyc": {
+      "size": 3544,
+      "file_or_folder": "file"
+    },
+    "classwork_3.cpython-311.pyc": {
+      "size": 2051,
+      "file_or_folder": "file"
+    },
+    "classwork_4.cpython-311.pyc": {
+      "size": 2465,
+      "file_or_folder": "file"
+    },
+    "homework.cpython-311.pyc": {
+      "size": 4969,
+      "file_or_folder": "file"
+    }
+  }
+}
